@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="src/ConsoleApp/ConsoleApp.csproj" Id="51bf6527-a194-48bc-9658-7843417ef689" />
+  <Project Path="src/FlexLabsUpsertIssue101.AppHost/FlexLabsUpsertIssue101.AppHost.csproj" Id="49ae751e-97e3-4941-a6a5-e6304991d839" />
+  <Project Path="src/FlexLabsUpsertIssue101.ServiceDefaults/FlexLabsUpsertIssue101.ServiceDefaults.csproj" />
+</Solution>
